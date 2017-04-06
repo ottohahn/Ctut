@@ -21,3 +21,4 @@ CXEY.dat.
 - [X] Fahrenheit to Celsius floating-point version
 - [X] C01E03
 - [X] C01E04
+- [X] C01E05
