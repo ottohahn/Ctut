@@ -23,3 +23,4 @@ CXEY.dat.
 - [X] C01E04
 - [X] C01E05
 - [X] exampledefines (temperature program with define keywords)
+- [X] Copy 1st version
