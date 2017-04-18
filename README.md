@@ -29,3 +29,4 @@ CXEY.dat.
 - [X] C01E07
 - [X] countchars-1
 - [X] countchars-2
+- [X] linecount
