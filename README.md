@@ -27,3 +27,4 @@ CXEY.dat.
 - [X] Copy 2nd version
 - [X] C01E06
 - [X] C01E07
+- [X] countchars-1
