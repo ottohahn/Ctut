@@ -26,3 +26,4 @@ CXEY.dat.
 - [X] Copy 1st version
 - [X] Copy 2nd version
 - [X] C01E06
+- [X] C01E07
