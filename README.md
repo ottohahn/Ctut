@@ -32,4 +32,5 @@ CXEY.dat.
 - [X] linecount
 - [X] C01E08
 - [X] C01E09
+- [X] C01E10
 
