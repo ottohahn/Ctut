@@ -34,4 +34,8 @@ CXEY.dat.
 - [X] C01E09
 - [X] C01E10
 - [X] wordcount
-
+- [X] C01E11-1.txt
+- [X] C01E11-2.txt
+- [X] C01E11-3.txt
+- [X] C01E11-4.txt
+- [X] C01E12
